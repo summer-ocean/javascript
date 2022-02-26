@@ -1,4 +1,5 @@
 [文字列](文字列/index.md)  
+[配列](配列/index.md)  
 
 [基本文法](基本文法/index.md)  
 [コメント](コメント/index.md)  
