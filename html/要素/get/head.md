@@ -1,5 +1,5 @@
 HTML > 要素 > Get
-# head
+# \<head>
 ```javascript
 head = document.head
 ```
