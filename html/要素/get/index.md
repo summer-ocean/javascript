@@ -1,7 +1,7 @@
 [CSSセレクタ](cssセレクタ.md)  
 
 [ID](id.md)  
-[](.md)  
+[クラス](クラス.md)  
 [name](name.md)  
 [タグ](タグ.md)  
 
