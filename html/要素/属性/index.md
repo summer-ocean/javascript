@@ -3,3 +3,7 @@
 
 [ID](id.md)  
 [src](src.md)  
+
+\<form>
+[action](action.md)  
+[method](method.md)  
