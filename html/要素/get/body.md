@@ -1,5 +1,5 @@
 HTML > 要素 > Get
-# body
+# \<body>
 ```javascript
 body = document.body
 ```
