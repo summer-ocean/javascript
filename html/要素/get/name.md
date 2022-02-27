@@ -4,3 +4,8 @@ HTML > 要素 > Get
 ```javascript
 elem = document.getElementByName(name);
 ```
+
+## 複数
+```javascript
+elems = document.getElementsByName(name);
+```
