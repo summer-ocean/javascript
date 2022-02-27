@@ -1,1 +1,1 @@
-[get](get.md)  
+[get](get/index.md)  
