@@ -1,5 +1,5 @@
 オブジェクト
-# Get
+# get
 ``javascript
 val = obj.prop;
 ```
