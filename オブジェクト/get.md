@@ -1,9 +1,9 @@
 オブジェクト
 # get
-``javascript
+```javascript
 val = obj.prop;
 ```
 
-``javascript
+```javascript
 val = obj['prop'];
 ```
