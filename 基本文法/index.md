@@ -3,6 +3,7 @@
 [if](if.md)  
 [switch](switch.md)  
 
+[for](for.md)  
 [while](while.md)  
 
 [変数の宣言](変数の宣言.md)  
