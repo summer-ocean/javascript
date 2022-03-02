@@ -1,4 +1,5 @@
 [関数](関数/index.md)  
+[例外処理](例外処理/index.md)  
 
 [if](if.md)  
 [switch](switch.md)  
