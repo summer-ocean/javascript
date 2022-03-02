@@ -6,6 +6,9 @@
 [for](for/index.md)  
 [while](while.md)  
 
+[break](break.md)  
+[continue](continue.md)  
+
 [変数の宣言](変数の宣言.md)  
 [定数の宣言](定数の宣言.md)  
 
