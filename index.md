@@ -1,6 +1,7 @@
 [HTML](html/index.md)  
 
 [文字列](文字列/index.md)  
+[数値](数値/index.md)  
 [配列](配列/index.md)  
 [オブジェクト](オブジェクト/index.md)  
 
