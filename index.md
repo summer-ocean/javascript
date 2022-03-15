@@ -11,4 +11,5 @@
 [コメント](コメント/index.md)  
 [命名規則](命名規則.md)  
 
+[JavaScript](javascript/index.md)  
 [ブックマークレット](ブックマークレット/index.md)  
