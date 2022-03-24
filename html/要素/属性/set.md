@@ -3,3 +3,6 @@ HTML > 要素 > 属性
 ```javascript
 document.setAttribute("属性", "値");
 ```
+```javascript
+elem.属性 = "値";
+```
