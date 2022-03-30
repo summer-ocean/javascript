@@ -6,7 +6,7 @@
 [関数](関数/index.md)  
 [チェック](チェック/index.md)  
 
-[イベント](イベント.md)  
+[イベント](イベント/index.md)  
 [HTMLの読み込みが完了したときの処理](HTMLの読み込みが完了したときの処理.md)  
 
 [Ajax](ajax/index.md)  
